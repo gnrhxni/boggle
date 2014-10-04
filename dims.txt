@@ -1,0 +1,15 @@
+dims
+++++
+
+width, length
+=============
+inner 3in 1/2
+outer 4in
+ideal 3in 5/8ths
+
+height
+======
+1in 7/16ths wide to 1in tall at scale
+
+est. height = 1/(1+7/16.) * 3.5 = ~2.5in
+
